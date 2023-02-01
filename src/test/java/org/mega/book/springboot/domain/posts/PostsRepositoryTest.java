@@ -1,6 +1,5 @@
 package org.mega.book.springboot.domain.posts;
 
-import jdk.vm.ci.meta.Local;
 import junit.framework.TestCase;
 import org.junit.After;
 import org.junit.Test;
